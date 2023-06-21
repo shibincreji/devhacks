@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.2b876a50.chunk.css",
-    "main.js": "/static/js/main.464ce384.chunk.js",
-    "main.js.map": "/static/js/main.464ce384.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3a24f2d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3a24f2d1.js.map",
-    "static/js/2.c6183a0d.chunk.js": "/static/js/2.c6183a0d.chunk.js",
-    "static/js/2.c6183a0d.chunk.js.map": "/static/js/2.c6183a0d.chunk.js.map",
-    "static/js/3.75d5a809.chunk.js": "/static/js/3.75d5a809.chunk.js",
-    "static/js/3.75d5a809.chunk.js.map": "/static/js/3.75d5a809.chunk.js.map",
+    "main.js": "/static/js/main.98684f2f.chunk.js",
+    "main.js.map": "/static/js/main.98684f2f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f2c54e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f2c54e2.js.map",
+    "static/js/2.f87b2cf7.chunk.js": "/static/js/2.f87b2cf7.chunk.js",
+    "static/js/2.f87b2cf7.chunk.js.map": "/static/js/2.f87b2cf7.chunk.js.map",
+    "static/js/3.5899217a.chunk.js": "/static/js/3.5899217a.chunk.js",
+    "static/js/3.5899217a.chunk.js.map": "/static/js/3.5899217a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.2b876a50.chunk.css.map": "/static/css/main.2b876a50.chunk.css.map",
-    "static/js/2.c6183a0d.chunk.js.LICENSE.txt": "/static/js/2.c6183a0d.chunk.js.LICENSE.txt",
+    "static/js/2.f87b2cf7.chunk.js.LICENSE.txt": "/static/js/2.f87b2cf7.chunk.js.LICENSE.txt",
     "static/media/tailwind.css": "/static/media/GoogleSansDisplay-Regular.9d0b1f29.woff2",
     "static/media/banner.498f3273.mp4": "/static/media/banner.498f3273.mp4",
-    "static/media/banner_mob.2d8650d1.mp4": "/static/media/banner_mob.2d8650d1.mp4",
+    "static/media/banner_mob.4fdf3b2b.mp4": "/static/media/banner_mob.4fdf3b2b.mp4",
     "static/media/chairman.jpg": "/static/media/chairman.35bfcbfd.jpg",
     "static/media/gdg-logo.png": "/static/media/gdg-logo.ff65fadf.png",
     "static/media/hod.jpg": "/static/media/hod.8a262fd1.jpg",
+    "static/media/lighweight-android.png": "/static/media/lighweight-android.c48254a7.png",
+    "static/media/lighweight-ml.png": "/static/media/lighweight-ml.c48254a7.png",
+    "static/media/lighweight-security.png": "/static/media/lighweight-security.1cc25f07.png",
+    "static/media/lighweight-web.png": "/static/media/lighweight-web.bc6d3e94.png",
     "static/media/naga.jpg": "/static/media/naga.06462765.jpg",
     "static/media/principal.jpg": "/static/media/principal.bec33d30.jpg",
     "static/media/sanskar.png": "/static/media/sanskar.e1f9c956.png",
@@ -28,9 +32,9 @@
     "static/media/vc.jpg": "/static/media/vc.eac61837.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a24f2d1.js",
-    "static/js/2.c6183a0d.chunk.js",
+    "static/js/runtime-main.5f2c54e2.js",
+    "static/js/2.f87b2cf7.chunk.js",
     "static/css/main.2b876a50.chunk.css",
-    "static/js/main.464ce384.chunk.js"
+    "static/js/main.98684f2f.chunk.js"
   ]
 }
