@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.2b876a50.chunk.css",
-    "main.js": "/static/js/main.aa476888.chunk.js",
-    "main.js.map": "/static/js/main.aa476888.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba46464e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba46464e.js.map",
-    "static/js/2.f87b2cf7.chunk.js": "/static/js/2.f87b2cf7.chunk.js",
-    "static/js/2.f87b2cf7.chunk.js.map": "/static/js/2.f87b2cf7.chunk.js.map",
-    "static/js/3.8308dafc.chunk.js": "/static/js/3.8308dafc.chunk.js",
-    "static/js/3.8308dafc.chunk.js.map": "/static/js/3.8308dafc.chunk.js.map",
+    "main.js": "/static/js/main.4264570a.chunk.js",
+    "main.js.map": "/static/js/main.4264570a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81afdd30.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81afdd30.js.map",
+    "static/js/2.411772c1.chunk.js": "/static/js/2.411772c1.chunk.js",
+    "static/js/2.411772c1.chunk.js.map": "/static/js/2.411772c1.chunk.js.map",
+    "static/js/3.a1e7231f.chunk.js": "/static/js/3.a1e7231f.chunk.js",
+    "static/js/3.a1e7231f.chunk.js.map": "/static/js/3.a1e7231f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.2b876a50.chunk.css.map": "/static/css/main.2b876a50.chunk.css.map",
-    "static/js/2.f87b2cf7.chunk.js.LICENSE.txt": "/static/js/2.f87b2cf7.chunk.js.LICENSE.txt",
+    "static/js/2.411772c1.chunk.js.LICENSE.txt": "/static/js/2.411772c1.chunk.js.LICENSE.txt",
     "static/media/tailwind.css": "/static/media/GoogleSansDisplay-Regular.9d0b1f29.woff2",
     "static/media/banner.498f3273.mp4": "/static/media/banner.498f3273.mp4",
     "static/media/banner_mob.4fdf3b2b.mp4": "/static/media/banner_mob.4fdf3b2b.mp4",
     "static/media/chairman.jpg": "/static/media/chairman.35bfcbfd.jpg",
+    "static/media/deepak.jpeg": "/static/media/deepak.94ff3acd.jpeg",
     "static/media/gdg-logo.png": "/static/media/gdg-logo.ff65fadf.png",
     "static/media/hod.jpg": "/static/media/hod.8a262fd1.jpg",
     "static/media/lighweight-android.png": "/static/media/lighweight-android.15e85e45.png",
@@ -34,9 +35,9 @@
     "static/media/vc.jpg": "/static/media/vc.eac61837.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba46464e.js",
-    "static/js/2.f87b2cf7.chunk.js",
+    "static/js/runtime-main.81afdd30.js",
+    "static/js/2.411772c1.chunk.js",
     "static/css/main.2b876a50.chunk.css",
-    "static/js/main.aa476888.chunk.js"
+    "static/js/main.4264570a.chunk.js"
   ]
 }
